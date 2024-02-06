@@ -20,9 +20,9 @@ Este projeto foi desenvolvido utilizando VueJS, Vite e Tailwind CSS. O objetivo 
 
 3. Instale as dependências do projeto:
 
-   ```markdown
-    npm install
-   ```
+```markdown
+  npm install
+```
 
 ## Executando o Projeto
 

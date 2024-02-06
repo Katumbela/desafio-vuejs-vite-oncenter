@@ -5,7 +5,7 @@
 
     <!-- Hero -->
     <Hero title="Casos de Covid 19"
-      description="Dados de casos confirmados de covid 19 enquanto a pandemia estava intensa" />
+      description="Dados de casos confirmados de covid 19 enquanto a pandemia estava intensa mundialmente" />
 
     <!-- Conteúdo principal -->
     <div class="mt-4">

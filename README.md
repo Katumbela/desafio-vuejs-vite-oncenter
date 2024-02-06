@@ -1,5 +1,5 @@
 
-
+```markdown
 # Desafio VueJS Vite OnCenter
 
 Este projeto foi desenvolvido utilizando VueJS, Vite e Tailwind CSS. O objetivo é exibir gráficos de barras com o número de casos confirmados de COVID-19 em cada país, consumindo dados da API COVID-19.
@@ -9,20 +9,20 @@ Este projeto foi desenvolvido utilizando VueJS, Vite e Tailwind CSS. O objetivo 
 
 1. Clone este repositório para o seu ambiente local:
 
- ```markdown
+ 
     git clone https://github.com/Katumbela/desafio-vuejs-vite-oncenter.git
-  ```
+  
 
 2. Acesse a pasta do projeto:
-```markdown
+
     cd desafio-vuejs-vite-oncenter/web
-```
+
 
 3. Instale as dependências do projeto:
 
-```markdown
-  npm install
-```
+   
+    npm install
+ 
 
 ## Executando o Projeto
 
@@ -30,9 +30,8 @@ Para executar o projeto e visualizar a aplicação, siga os passos abaixo:
 
 
 # Inicie o servidor de desenvolvimento
-```markdown
-  npm run dev
-```
+npm run dev
+
 
 Após iniciar o servidor, abra seu navegador e acesse [http://localhost:3000](http://localhost:3000) para visualizar a aplicação, o numero da porta pode variar de acordo com a sua maquina.
 

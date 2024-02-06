@@ -145,7 +145,7 @@ export default {
     async fetchData() {
       try {
         const countryData = await covidService.fetchCountryData();
-        console.log('Dados da API:', countryData);
+        // console.log('Dados da API:', countryData);
         const data = countryData.data;
 
         this.countries = data; // Atribui os dados dos países à propriedade countries

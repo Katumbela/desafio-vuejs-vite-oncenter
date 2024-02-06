@@ -34,7 +34,7 @@
           <div class="bg-slate-200 text-center px-2 py-3">
             <h2 class="text-xl font-bold">Dados Mundiais COVID-19</h2>
           </div>
-          <table class=" overflow-auto text-sm table table-fixed w-full">
+          <table class=" overflow-auto text-sm table table-auto w-full">
             <!-- Cabeçalho da tabela -->
             <thead class="table-header-group">
               <tr class="bg-slate-100">

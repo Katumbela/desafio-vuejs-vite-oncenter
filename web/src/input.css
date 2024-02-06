@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* 
 @layer components {
   .btn-pagina {
     @apply border px-3 py-0 text-sm focus:bg-black focus:text-white border-black rounded-sm cursor-pointer hover:border-slate-400  transition-all hover:text-slate-400;
@@ -13,4 +12,4 @@
   html {
     font-family: "Oswald", system-ui, sans-serif;
   }
-} */
+}

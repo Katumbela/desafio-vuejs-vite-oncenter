@@ -1,5 +1,5 @@
 
-
+```markdown
 # Desafio VueJS Vite OnCenter
 
 Este projeto foi desenvolvido utilizando VueJS, Vite e Tailwind CSS. O objetivo é exibir gráficos de barras com o número de casos confirmados de COVID-19 em cada país, consumindo dados da API COVID-19.

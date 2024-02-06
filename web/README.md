@@ -4,6 +4,7 @@
 
 Este projeto foi desenvolvido utilizando VueJS, Vite e Tailwind CSS. O objetivo é exibir gráficos de barras com o número de casos confirmados de COVID-19 em cada país, consumindo dados da API COVID-19.
 
+
 ## Instalação e Configuração
 
 1. Clone este repositório para o seu ambiente local:
@@ -33,7 +34,7 @@ Para executar o projeto e visualizar a aplicação, siga os passos abaixo:
 npm run dev
 ```
 
-Após iniciar o servidor, abra seu navegador e acesse [http://localhost:3000](http://localhost:3000) para visualizar a aplicação.
+Após iniciar o servidor, abra seu navegador e acesse [http://localhost:3000](http://localhost:3000) para visualizar a aplicação, o numero da porta pode variar de acordo com a sua maquina.
 
 ## API COVID-19
 
@@ -49,4 +50,4 @@ O desafio consistia em desenvolver uma aplicação utilizando Vite e Tailwind CS
 
 ```
 
-Esse README.md fornece uma breve descrição do projeto, instruções de instalação e execução, informações sobre a API COVID-19 e uma explicação sobre o desafio. Certifique-se de substituir "Katumbela" pelo seu nome de usuário do GitHub no comando de clone.
+Esse README.md (INSTRUÇÕES) fornece uma breve descrição do projeto, instruções de instalação e execução, informações sobre a API COVID-19 e uma explicação sobre o desafio. Certifique-se de substituir "Katumbela" pelo seu nome de usuário do GitHub no comando de clone.

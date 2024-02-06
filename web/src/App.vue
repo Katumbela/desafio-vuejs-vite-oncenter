@@ -97,7 +97,7 @@ import Footer from './components/footer.vue'
 import Jumbo from './components/jumbotron.vue'
 import covidService from './services/covidService'
 import Jumbotron from './components/jumbotron.vue'
-import GlobalStats from './components/GlobalStats.vue'
+import GlobalStats from './components/globalStats.vue'
 
 
 export default {

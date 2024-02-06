@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [vue()],
   build: {
     rollupOptions: {
-      external: ['chart.js', 'axios', 'numeral'],
+      external: ['chart.js/auto', 'axios', 'numeral'],
     }
   }
 });

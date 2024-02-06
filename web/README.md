@@ -1,7 +1,52 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+```markdown
+# Desafio VueJS Vite OnCenter
 
-## Recommended IDE Setup
+Este projeto foi desenvolvido utilizando VueJS, Vite e Tailwind CSS. O objetivo é exibir gráficos de barras com o número de casos confirmados de COVID-19 em cada país, consumindo dados da API COVID-19.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Instalação e Configuração
+
+1. Clone este repositório para o seu ambiente local:
+
+    ```bash
+    git clone https://github.com/Katumbela/desafio-vuejs-vite-oncenter.git
+    ```
+
+2. Acesse a pasta do projeto:
+
+    ```bash
+    cd desafio-vuejs-vite-oncenter/web
+    ```
+
+3. Instale as dependências do projeto:
+
+    ```bash
+    npm install
+    ```
+
+## Executando o Projeto
+
+Para executar o projeto e visualizar a aplicação, siga os passos abaixo:
+
+```bash
+# Inicie o servidor de desenvolvimento
+npm run dev
+```
+
+Após iniciar o servidor, abra seu navegador e acesse [http://localhost:3000](http://localhost:3000) para visualizar a aplicação.
+
+## API COVID-19
+
+Este projeto consome dados da API COVID-19 para exibir o número de casos confirmados de COVID-19 em cada país. A rota utilizada é:
+
+- [GET] /api/report/v1/countries
+
+Você pode encontrar mais informações sobre a API em [Covid API Documentation](https://covid19-brazil-api-docs.vercel.app/#req_53a5a4926c534c59b36ffb08a667ed3a).
+
+## Sobre o Desafio
+
+O desafio consistia em desenvolver uma aplicação utilizando Vite e Tailwind CSS, consumindo a API COVID-19 para exibir os casos confirmados de COVID-19 em gráficos de barras.
+
+```
+
+Esse README.md fornece uma breve descrição do projeto, instruções de instalação e execução, informações sobre a API COVID-19 e uma explicação sobre o desafio. Certifique-se de substituir "Katumbela" pelo seu nome de usuário do GitHub no comando de clone.

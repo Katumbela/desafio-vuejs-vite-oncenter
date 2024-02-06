@@ -1,6 +1,9 @@
 // src/services/covidService.js
 import axios from 'axios'
 
+// este link nao funciona no entanto peguei um outro link no mesmo site para consumir os dados
+// https://covid19-brazil-api-docs.vercel.app/#req_53a5a4926c534c59b36ffb08a667ed3a
+
 const API_URL = 'https://covid19-brazil-api.now.sh'
 
 export default {

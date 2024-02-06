@@ -1104,6 +1104,10 @@ html {
   }
 }
 
+.overflow-auto {
+  overflow: auto;
+}
+
 @media (min-width: 1024px) {
   .lg\:mt-8 {
     margin-top: 2rem;

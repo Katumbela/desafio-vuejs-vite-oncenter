@@ -21,7 +21,7 @@
       <GlobalStats />
     </div>
     <!-- Tabela mundial -->
-    <div class="flex md:flex-row flex-col ">
+    <div class="flex  md:flex-row flex-col ">
       <div class="md:w-4/12 mb-12 md:mb-0 flex items-center gap-4 content-center flex-col justify-center p-18">
 
         <img src="./assets/cov2.png" class="md:w-[60%]" alt="">
@@ -30,11 +30,11 @@
       </div>
       <div id="paises" class="md:w-8/12">
 
-        <div class=" w-full ">
+        <div class=" w-full  overflow-auto">
           <div class="bg-slate-200 text-center px-2 py-3">
             <h2 class="text-xl font-bold">Dados Mundiais COVID-19</h2>
           </div>
-          <table class=" text-sm table table-fixed w-full">
+          <table class=" overflow-auto text-sm table table-fixed w-full">
             <!-- Cabeçalho da tabela -->
             <thead class="table-header-group">
               <tr class="bg-slate-100">
